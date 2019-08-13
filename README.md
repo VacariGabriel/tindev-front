@@ -1,7 +1,7 @@
 # Tindev-front
 ## Semana OmniStack - Rocketseat
 
-Tindev é uma aplicaço inspirada no Tinder, o objetivo é que desenvolvedores com interesses semalhantes possam dar match para se conhecer melhor.
+Tindev é uma aplicaço inspirada no Tinder, o objetivo é que desenvolvedores com interesses semelhantes possam dar match para se conhecer melhor.
 
 ### Como usar ? 
 #### Clone o repositório da API
