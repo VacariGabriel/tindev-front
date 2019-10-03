@@ -18,9 +18,11 @@ Para que possa usar o Tindev, será necessário que você clone esta repositóri
 `yarn dev`
 
 
-### Agora clone esse repositório
- `yarn install`
+### Clonando este repositório
+`git clone https://github.com/VacariGabriel/tindev-front.git`
+
+`yarn install`
   
- `yarn start`
+`yarn start`
   
 ## Divirta-se ;)
