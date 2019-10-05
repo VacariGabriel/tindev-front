@@ -9,7 +9,7 @@ Tindev é uma aplicaço inspirada no Tinder, o objetivo é que desenvolvedores c
 Para que possa usar o Tindev, será necessário que você clone esta repositório e o repositório da API e rode localmente. O passo-a-passo esta logo abaixo.
  
  ### Clonando o repositório da API
-`git clone https://github.com/VacariGabriel/tindev-api.git`
+`Clone este repo`
 
 `cd tindev-api`
 
@@ -19,7 +19,7 @@ Para que possa usar o Tindev, será necessário que você clone esta repositóri
 
 
 ### Clonando este repositório
-`git clone https://github.com/VacariGabriel/tindev-front.git`
+`Clone este repo`
 
 `yarn install`
   
