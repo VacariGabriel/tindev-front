@@ -12,7 +12,7 @@ Tindev é uma aplicaço inspirada no Tinder, o objetivo é que desenvolvedores c
 ## Como usar ? 
 Para que possa usar o Tindev, será necessário que você clone esta repositório e o repositório da API e rode localmente. O passo-a-passo esta logo abaixo.
 
-# Execute esses comandos
+## Execute esses comandos
 `npm install`
 
 `npm start`
