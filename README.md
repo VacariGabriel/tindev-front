@@ -1,20 +1,23 @@
 # Tindev
 
-## Sobre a aplicação
-Tindev é uma aplicaço inspirada no Tinder, o objetivo é que desenvolvedores com interesses semelhantes possam dar match para se conhecer melhor.
+![license](https://img.shields.io/github/license/vacarigabriel/tindev-front?color=blue)
 
-![Login](./src/assets/product_images/login.png)
+Tindev is an applications inspired by _Tinder_ but for developers, here you can find devs with the same interest as you.
 
-![Like](./src/assets/product_images/like.png)
+![tindev](./src/assets/logo.svg)
 
-![:(](./src/assets/product_images/done.png)
+## Install project
 
-## Como usar ? 
-Para que possa usar o Tindev, será necessário que você clone esta repositório e o repositório da API e rode localmente. O passo-a-passo esta logo abaixo.
+`cd tindev-front/`
 
-## Execute esses comandos
 `npm install`
 
 `npm start`
-  
-## Divirta-se ;)
+
+## Login Preview
+
+![login](./src/assets/product_images/login.png)
+
+## License
+
+[MIT License](./LICENSE.md) © [Gabriel Vacari](https://github.com/VacariGabriel)
